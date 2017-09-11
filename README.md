@@ -1,2 +1,2 @@
 # Kakuro
-2015 - Kakuro Solver
+2014 - Kakuro Solver
